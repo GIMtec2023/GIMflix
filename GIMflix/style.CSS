@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    font-family: 'Courier New';
+    font-size: 30px;
+    padding-left: 30px;
+    background-color: blanchedalmond;
+    color: rgb(23, 44, 100);
+}
+
+.imagens{
+    height: 400px;
+    width: 260px;  
+    border: solid blanchedalmond 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}    
+
+body{
+    background-color: rgb(23, 44, 100);
+    color: white;
+    font-family: 'Courier New';
+    font-size: 15px;
+}
+
+div{
+    display: flex;
+}
+
+p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#filmes{
+    margin-bottom: 15px;
+    margin-top: 30px;
+    font-family: 'Courier New';
+    font-size: 30px;
+}
+
+#series{
+    margin-bottom: 15px;
+    margin-top: 30px;  
+    font-family: 'Courier New';
+    font-size: 30px; 
+}
+
